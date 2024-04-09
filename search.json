@@ -1,0 +1,1 @@
+[{"title":"JavaScript isNaN() függvény","url":"/Arknights_I-2-N/2024/04/09/jsisnan/","content":"BevezetésMegvizsgálja, hogy a bemenet szám vagy nem szám\nVisszatérési értéke:\n\ntrue - ha az érték NaN\nfalse - ha az éerték bármilyen más karakterlánc\n\nPéldavar a = 10;console.log(isNaN(a)); //falsevar nev = &#x27;Texas&#x27;;console.log(isNaN(nev)); //true"}]
